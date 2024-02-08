@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Jin's Blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Jin
 language: zh-CN  # 指定语言，会影响主题显示的语言，按需修改
 timezone: ''
 
