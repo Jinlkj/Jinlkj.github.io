@@ -1,3 +1,16 @@
+---
+title: 2025届实习招聘信息汇总
+index_img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbPdCuNJz-FIuTf4T4J0pGv2BRF44AXQ8iVg&usqp=CAU
+date: 2025-03-03
+excerpt: 主要汇总了针对2025届的实习信息，状态信息未个人投递情况
+index:
+  post_meta:
+    date: true
+    category: true
+    tag: true
+tags: [实习]
+categories: [实习]
+---
 # 2025届暑期实习大厂招聘信息汇总
 
 ------------------------截止时间：*2024/03/03*------------------------
