@@ -44,7 +44,7 @@ categories: [实习]
 
 投递美团实习可以找我内推，带简历发送到xiajincqu@163.com
 
-重大人的简历模版（自制） -> https://github.com/Jinlkj/Jinlkj.github.io/blob/main/cvTemplate/重大模版.doc
+重大人的简历模版（自制） -> https://github.com/Jinlkj/Jinlkj.github.io/blob/main/cvTemplate
 
 简历书写
 ```
