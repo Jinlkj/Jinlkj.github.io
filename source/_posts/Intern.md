@@ -42,6 +42,16 @@ categories: [实习]
 | 蔚来汽车 | 新能源 |   未开   | 未投 | /        |                       https://intern.nio.com/#/                       |
 | 理想汽车 | 新能源 |   未开   | 未投 | /        |         https://www.lixiang.com/employ/campus.html?fromJob=1          |
 
+投递美团实习可以找我内推，带简历发送到xiajincqu@163.com
+
+重大人的简历模版（自制） -> https://jinlkj.github.io/cvTemplate/重大模版.doc
+
+简历书写
+```
+96 软开GGBond发布了一篇小红书笔记，快来看吧！ 😆 S3QiuvsIJWKDAKM 😆 http://xhslink.com/oF1tJC，复制本条信息，打开【小红书】App查看精彩内容！
+```
+复制到小红书查看我的笔记
+
 
 
 
