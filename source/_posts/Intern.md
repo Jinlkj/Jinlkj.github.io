@@ -42,7 +42,6 @@ categories: [实习]
 |  蔚来汽车   | 新能源 |  未开  | 未投 | /    |                       https://intern.nio.com/#/                       |
 |  理想汽车   | 新能源 |  未开  | 未投 | /    |         https://www.lixiang.com/employ/campus.html?fromJob=1          |
 |   携程    | 互联网 |  已开  | 已投 | /    |https://campus.ctrip.com/campus-recruitment/trip/37757/#/|
-|  Apple  | 硬件  |  已开  | 已投 | /    |https://jobs.apple.com/app/zh-cn/profile/info|
 
 投递美团实习可以找我内推，带简历发送到xiajincqu@163.com
 
