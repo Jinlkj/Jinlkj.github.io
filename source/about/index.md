@@ -6,7 +6,9 @@ date: 2024-02-08 23:42:27
 
 *B.S. at Chongqing University Software Engineering|重庆大学 软件工程 学士*
 
-**Meituan AIGC development engineer｜美团 AIGC落地开发工程师** *2024.02-至今*
+**Tencent Backend development engineer(Golang)｜腾讯 后台开发工程师（Golang）** *2024.05-至今*
+
+**Meituan AIGC development engineer｜美团 AIGC落地开发工程师** *2024.02-2024.05*
 
 **Deloitte Data development engineer｜德勤 数据开发工程师** *2023.12-2024.02* 
 
